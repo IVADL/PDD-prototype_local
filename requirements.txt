@@ -9,4 +9,5 @@ opencv-python==4.5.1.48
 streamlit==0.68.0 
 requests==2.24.0
 requests-toolbelt==0.9.1
-tensorflow==2.4.1
+tensorflow==2.3.0
+uvicorn
