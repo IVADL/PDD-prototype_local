@@ -310,7 +310,7 @@ class DetectorModel:
         self.name = name
         self.exist_ok = exist_ok
 
-        check_requirements()
+        # check_requirements()
 
         # print(self.update)
         # with torch.no_grad():
